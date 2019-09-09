@@ -1,3 +1,6 @@
 [submodule "user/themes/cdd"]
 	path = user/themes/cdd
 	url = https://github.com/CoderDojoDeutschland/webseite-theme
+[submodule "user/plugins/sponsoren-banner"]
+	path = user/plugins/sponsoren-banner
+	url = https://github.com/CoderDojoDeutschland/webseite-plugin-sponsoren-banner.git

@@ -23,6 +23,7 @@ user/data/*
 !user/data/.*
 user/plugins/*
 !user/plugins/.*
+!user/plugins/sponsoren-banner
 user/themes/*
 !user/themes/cdd
 !user/themes/.*
